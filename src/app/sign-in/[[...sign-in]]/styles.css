@@ -1,0 +1,14 @@
+.cl-cardBox,
+.cl-card {
+  box-shadow: none;
+}
+
+.cl-header,
+.cl-main .cl-buttonArrowIcon,
+.cl-footer div[class^='cl-internal'] {
+  display: none;
+}
+
+.cl-footer {
+  background: none;
+}
